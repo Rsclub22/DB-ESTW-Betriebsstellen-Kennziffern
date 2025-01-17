@@ -1,2 +1,22 @@
 # Für die Region Thüringen. BD: Erfurt. Betriebsstellen beginnen immer mit: Uxxx
-# Authoren: 
+# Authoren: Philipp Wagner,
+# Format: "Bezeichnung" (RIL100): Ziffer # Bemerkungen
+
+
+"Arnstadt Hbf" (UA): 80
+"Bad Salzungen" (USZ): 74
+"Eisenach Hauptbahnhof" (UEI): 21 # gerraten, da ESTW-R (Regionalzentrale) und Feldelemente keine Nummer hatten
+"Förtha (Kr Eisenach)" (UF): 71
+"Fröttstädt" (UFT): 18
+"Gehlberg" (UGB): 83
+"Gotha" (UGO): 16
+"Gräfenroda" (UGD): 82
+"Immelborn" (UIM): 75
+"Mechterstädt-Sättelstädt" (UMS): 19 # Betriebsbahnhof, gerraten, da kein Zugang.
+"Neudietendorf" (UND): 13
+"Oberhof" (UOF): 84
+"Plaue (Thür)" (UPL): 81
+"Seebergen" (USB): 15
+"Wandersleben" (UWA): 14
+"Wutha" (UWU): 20
+"Zella-Mehlis" (UZL): 85
