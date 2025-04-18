@@ -11,6 +11,7 @@
 "Gehlberg" (UGB): 83
 "Gotha" (UGO): 16
 "Gräfenroda" (UGD): 82
+"Grimmenthal" (UGM): 88
 "Immelborn" (UIM): 75
 "Mechterstädt-Sättelstädt" (UMS): 19 # Betriebsbahnhof, gerraten, da kein Zugang.
 "Neudietendorf" (UND): 13
